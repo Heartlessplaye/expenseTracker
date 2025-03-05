@@ -18,6 +18,6 @@ connectDB();
 
 app.use('/api/expense', expenseRoutes);
 // LISTENING SERVER AT PORT
-app.listen(conf.port, () => {
+app.listen(conf.port || 5000, () => {
   console.log(`server is listening at port ${conf.port}`);
 });
