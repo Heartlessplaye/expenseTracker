@@ -51,7 +51,8 @@ npm start
 1. Go to frontend folder
 
 ```
-   cd client/vite-folder
+   cd client/vite-project
+   
 
 ```
 
