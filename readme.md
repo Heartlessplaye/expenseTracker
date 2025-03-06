@@ -1,10 +1,11 @@
 # Project set up guidelines
 
-### pre requisites
+### prerequisites
 
-- NodeJS
+- Node.js
 - MongoDB
 - Git
+  
 
 ## Clone the repository
 
@@ -17,7 +18,7 @@
 
 ## Server setup
 
-1. Go to Server folder
+1. Go to the Server folder
 
 ```
 cd server
@@ -71,7 +72,7 @@ npm run dev
 ```
 
 ## Working
-Now MongoDB, backend and frontend is running 
+Now MongoDB, backend, and frontend are running 
 
 Frontend: http://localhost:5173 (default)
 Backend: http://localhost:5000 (default)
